@@ -58,17 +58,16 @@ The main objectives of this project are:
 - Test and document APIs using Swagger/OpenAPI
 
 ---
+# Folder Structure
 
 hotel-booking-api/
-
-├── .gitignore
 │
+├── .gitignore
 ├── main.py
 ├── auth.py
 ├── database.py
 ├── models.py
 ├── schemas.py
-│
 └── README.md
 
 # 🛠️ Technology Stack
